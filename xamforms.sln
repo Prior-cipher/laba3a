@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamforms.Android", "xamforms\xamforms.Android\xamforms.Android.csproj", "{68974832-6832-4649-80FA-01361F9D4DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamforms", "xamforms\xamforms\xamforms.csproj", "{85A5F9F7-A19A-4FFC-ACE1-BF98692DB62F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68974832-6832-4649-80FA-01361F9D4DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68974832-6832-4649-80FA-01361F9D4DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68974832-6832-4649-80FA-01361F9D4DD0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{68974832-6832-4649-80FA-01361F9D4DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68974832-6832-4649-80FA-01361F9D4DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68974832-6832-4649-80FA-01361F9D4DD0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{85A5F9F7-A19A-4FFC-ACE1-BF98692DB62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85A5F9F7-A19A-4FFC-ACE1-BF98692DB62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85A5F9F7-A19A-4FFC-ACE1-BF98692DB62F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{85A5F9F7-A19A-4FFC-ACE1-BF98692DB62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85A5F9F7-A19A-4FFC-ACE1-BF98692DB62F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85A5F9F7-A19A-4FFC-ACE1-BF98692DB62F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C52AE9C0-C7C9-4711-9B0F-74E5605B9B84}
+	EndGlobalSection
+EndGlobal
